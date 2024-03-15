@@ -11,7 +11,7 @@ useEffect(()=>{
 },[])
 
     return (
-        <div>
+        <div className="md:w-2/3">
             <h1>Blogs Quantity : {blogs.length}</h1>
         </div>
     );
