@@ -1,0 +1,67 @@
+[
+    {
+        "id": "F1023",
+        "coverTitle": "Echoes of Destiny",
+        "author": "Selena Rivers",
+        "authorImgUrl": "https://i.ibb.co/KhsHVZQ/pinned-sticky-notes-light-surface-flat-lay.jpg",
+        "imagePostedDate": "March 16, 2024",
+        "readingTime": 180,
+        "hashtags": [
+            "#FantasyFiction",
+            "#DestinyCalls",
+            "#AdventureAwaits"
+        ]
+    },
+    {
+        "id": "B5876",
+        "coverTitle": "Shadows in the Mist",
+        "author": "Gabriel Nightshade",
+        "authorImgUrl": "https://i.ibb.co/m4rDPHV/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+        "imagePostedDate": "March 16, 2024",
+        "readingTime": 150,
+        "hashtags": [
+            "#Thriller",
+            "#Mystery",
+            "#Suspense"
+        ]
+    },
+    {
+        "id": "L2341",
+        "coverTitle": "Whispers of the Woods",
+        "author": "Luna Evergreen",
+        "authorImgUrl": "https://i.ibb.co/b2fFgjz/ideas-concept-laptop-screen.jpg",
+        "imagePostedDate": "March 16, 2024",
+        "readingTime": 240,
+        "hashtags": [
+            "#NatureWriting",
+            "#MagicalRealism",
+            "#ForestTales"
+        ]
+    },
+    {
+        "id": "S9082",
+        "coverTitle": "City of Dreams",
+        "author": "Max Storm",
+        "authorImgUrl": "https://i.ibb.co/X79HkPh/online-blog.jpg",
+        "imagePostedDate": "March 16, 2024",
+        "readingTime": 120,
+        "hashtags": [
+            "#SciFi",
+            "#Dystopia",
+            "#FutureWorld"
+        ]
+    },
+    {
+        "id": "T4563",
+        "coverTitle": "Heartstrings",
+        "author": "Harper Wells",
+        "authorImgUrl": "https://i.ibb.co/xGkdTmd/toy-bricks-table-with-word-my-blog.jpg",
+        "imagePostedDate": "March 16, 2024",
+        "readingTime": 90,
+        "hashtags": [
+            "#Romance",
+            "#LoveStory",
+            "#HeartfeltReads"
+        ]
+    }
+]
